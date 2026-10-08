@@ -1,0 +1,897 @@
+{
+  "method": "Exterior flood fill of alpha <=16, evaluated at every continuity-reported gap row",
+  "directions": [
+    {
+      "direction": "000",
+      "rows": [
+        {
+          "row": 19,
+          "transparent_pixels": 44,
+          "exterior_connected": 44,
+          "enclosed": 0,
+          "landmark": "between ears above head"
+        },
+        {
+          "row": 20,
+          "transparent_pixels": 39,
+          "exterior_connected": 39,
+          "enclosed": 0,
+          "landmark": "between ears above head"
+        },
+        {
+          "row": 21,
+          "transparent_pixels": 34,
+          "exterior_connected": 34,
+          "enclosed": 0,
+          "landmark": "between ears above head"
+        },
+        {
+          "row": 193,
+          "transparent_pixels": 33,
+          "exterior_connected": 33,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 194,
+          "transparent_pixels": 34,
+          "exterior_connected": 34,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 195,
+          "transparent_pixels": 36,
+          "exterior_connected": 36,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 196,
+          "transparent_pixels": 38,
+          "exterior_connected": 38,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 197,
+          "transparent_pixels": 40,
+          "exterior_connected": 40,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 198,
+          "transparent_pixels": 44,
+          "exterior_connected": 44,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 199,
+          "transparent_pixels": 46,
+          "exterior_connected": 46,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        }
+      ],
+      "all_reported_gap_pixels_exterior_connected": true
+    },
+    {
+      "direction": "022.5",
+      "rows": [
+        {
+          "row": 22,
+          "transparent_pixels": 33,
+          "exterior_connected": 33,
+          "enclosed": 0,
+          "landmark": "between ears above head"
+        },
+        {
+          "row": 192,
+          "transparent_pixels": 33,
+          "exterior_connected": 33,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 193,
+          "transparent_pixels": 34,
+          "exterior_connected": 34,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 194,
+          "transparent_pixels": 35,
+          "exterior_connected": 35,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 195,
+          "transparent_pixels": 36,
+          "exterior_connected": 36,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 196,
+          "transparent_pixels": 38,
+          "exterior_connected": 38,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 197,
+          "transparent_pixels": 40,
+          "exterior_connected": 40,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 198,
+          "transparent_pixels": 44,
+          "exterior_connected": 44,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 199,
+          "transparent_pixels": 47,
+          "exterior_connected": 47,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        }
+      ],
+      "all_reported_gap_pixels_exterior_connected": true
+    },
+    {
+      "direction": "045",
+      "rows": [
+        {
+          "row": 193,
+          "transparent_pixels": 34,
+          "exterior_connected": 34,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 194,
+          "transparent_pixels": 34,
+          "exterior_connected": 34,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 195,
+          "transparent_pixels": 36,
+          "exterior_connected": 36,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 196,
+          "transparent_pixels": 38,
+          "exterior_connected": 38,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 197,
+          "transparent_pixels": 40,
+          "exterior_connected": 40,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 198,
+          "transparent_pixels": 43,
+          "exterior_connected": 43,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 199,
+          "transparent_pixels": 46,
+          "exterior_connected": 46,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        }
+      ],
+      "all_reported_gap_pixels_exterior_connected": true
+    },
+    {
+      "direction": "067.5",
+      "rows": [
+        {
+          "row": 193,
+          "transparent_pixels": 33,
+          "exterior_connected": 33,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 194,
+          "transparent_pixels": 33,
+          "exterior_connected": 33,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 195,
+          "transparent_pixels": 36,
+          "exterior_connected": 36,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 196,
+          "transparent_pixels": 38,
+          "exterior_connected": 38,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 197,
+          "transparent_pixels": 40,
+          "exterior_connected": 40,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 198,
+          "transparent_pixels": 43,
+          "exterior_connected": 43,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 199,
+          "transparent_pixels": 46,
+          "exterior_connected": 46,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        }
+      ],
+      "all_reported_gap_pixels_exterior_connected": true
+    },
+    {
+      "direction": "090",
+      "rows": [
+        {
+          "row": 193,
+          "transparent_pixels": 33,
+          "exterior_connected": 33,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 194,
+          "transparent_pixels": 34,
+          "exterior_connected": 34,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 195,
+          "transparent_pixels": 35,
+          "exterior_connected": 35,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 196,
+          "transparent_pixels": 37,
+          "exterior_connected": 37,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 197,
+          "transparent_pixels": 39,
+          "exterior_connected": 39,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 198,
+          "transparent_pixels": 43,
+          "exterior_connected": 43,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 199,
+          "transparent_pixels": 47,
+          "exterior_connected": 47,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        }
+      ],
+      "all_reported_gap_pixels_exterior_connected": true
+    },
+    {
+      "direction": "112.5",
+      "rows": [
+        {
+          "row": 194,
+          "transparent_pixels": 34,
+          "exterior_connected": 34,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 195,
+          "transparent_pixels": 35,
+          "exterior_connected": 35,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 196,
+          "transparent_pixels": 38,
+          "exterior_connected": 38,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 197,
+          "transparent_pixels": 40,
+          "exterior_connected": 40,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 198,
+          "transparent_pixels": 43,
+          "exterior_connected": 43,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 199,
+          "transparent_pixels": 46,
+          "exterior_connected": 46,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        }
+      ],
+      "all_reported_gap_pixels_exterior_connected": true
+    },
+    {
+      "direction": "135",
+      "rows": [
+        {
+          "row": 194,
+          "transparent_pixels": 34,
+          "exterior_connected": 34,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 195,
+          "transparent_pixels": 36,
+          "exterior_connected": 36,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 196,
+          "transparent_pixels": 37,
+          "exterior_connected": 37,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 197,
+          "transparent_pixels": 39,
+          "exterior_connected": 39,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 198,
+          "transparent_pixels": 42,
+          "exterior_connected": 42,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 199,
+          "transparent_pixels": 45,
+          "exterior_connected": 45,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        }
+      ],
+      "all_reported_gap_pixels_exterior_connected": true
+    },
+    {
+      "direction": "157.5",
+      "rows": [
+        {
+          "row": 193,
+          "transparent_pixels": 34,
+          "exterior_connected": 34,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 194,
+          "transparent_pixels": 34,
+          "exterior_connected": 34,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 195,
+          "transparent_pixels": 35,
+          "exterior_connected": 35,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 196,
+          "transparent_pixels": 37,
+          "exterior_connected": 37,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 197,
+          "transparent_pixels": 39,
+          "exterior_connected": 39,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 198,
+          "transparent_pixels": 43,
+          "exterior_connected": 43,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 199,
+          "transparent_pixels": 46,
+          "exterior_connected": 46,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        }
+      ],
+      "all_reported_gap_pixels_exterior_connected": true
+    },
+    {
+      "direction": "180",
+      "rows": [
+        {
+          "row": 193,
+          "transparent_pixels": 33,
+          "exterior_connected": 33,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 194,
+          "transparent_pixels": 35,
+          "exterior_connected": 35,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 195,
+          "transparent_pixels": 36,
+          "exterior_connected": 36,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 196,
+          "transparent_pixels": 38,
+          "exterior_connected": 38,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 197,
+          "transparent_pixels": 40,
+          "exterior_connected": 40,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 198,
+          "transparent_pixels": 45,
+          "exterior_connected": 45,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        }
+      ],
+      "all_reported_gap_pixels_exterior_connected": true
+    },
+    {
+      "direction": "202.5",
+      "rows": [
+        {
+          "row": 192,
+          "transparent_pixels": 33,
+          "exterior_connected": 33,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 193,
+          "transparent_pixels": 34,
+          "exterior_connected": 34,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 194,
+          "transparent_pixels": 35,
+          "exterior_connected": 35,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 195,
+          "transparent_pixels": 37,
+          "exterior_connected": 37,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 196,
+          "transparent_pixels": 38,
+          "exterior_connected": 38,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 197,
+          "transparent_pixels": 40,
+          "exterior_connected": 40,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 198,
+          "transparent_pixels": 45,
+          "exterior_connected": 45,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        }
+      ],
+      "all_reported_gap_pixels_exterior_connected": true
+    },
+    {
+      "direction": "225",
+      "rows": [
+        {
+          "row": 193,
+          "transparent_pixels": 33,
+          "exterior_connected": 33,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 194,
+          "transparent_pixels": 35,
+          "exterior_connected": 35,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 195,
+          "transparent_pixels": 37,
+          "exterior_connected": 37,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 196,
+          "transparent_pixels": 38,
+          "exterior_connected": 38,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 197,
+          "transparent_pixels": 41,
+          "exterior_connected": 41,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 198,
+          "transparent_pixels": 46,
+          "exterior_connected": 46,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        }
+      ],
+      "all_reported_gap_pixels_exterior_connected": true
+    },
+    {
+      "direction": "247.5",
+      "rows": [
+        {
+          "row": 193,
+          "transparent_pixels": 33,
+          "exterior_connected": 33,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 194,
+          "transparent_pixels": 35,
+          "exterior_connected": 35,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 195,
+          "transparent_pixels": 36,
+          "exterior_connected": 36,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 196,
+          "transparent_pixels": 38,
+          "exterior_connected": 38,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 197,
+          "transparent_pixels": 40,
+          "exterior_connected": 40,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 198,
+          "transparent_pixels": 44,
+          "exterior_connected": 44,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        }
+      ],
+      "all_reported_gap_pixels_exterior_connected": true
+    },
+    {
+      "direction": "270",
+      "rows": [
+        {
+          "row": 193,
+          "transparent_pixels": 33,
+          "exterior_connected": 33,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 194,
+          "transparent_pixels": 35,
+          "exterior_connected": 35,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 195,
+          "transparent_pixels": 36,
+          "exterior_connected": 36,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 196,
+          "transparent_pixels": 38,
+          "exterior_connected": 38,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 197,
+          "transparent_pixels": 40,
+          "exterior_connected": 40,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 198,
+          "transparent_pixels": 45,
+          "exterior_connected": 45,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 199,
+          "transparent_pixels": 49,
+          "exterior_connected": 49,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        }
+      ],
+      "all_reported_gap_pixels_exterior_connected": true
+    },
+    {
+      "direction": "292.5",
+      "rows": [
+        {
+          "row": 193,
+          "transparent_pixels": 33,
+          "exterior_connected": 33,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 194,
+          "transparent_pixels": 34,
+          "exterior_connected": 34,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 195,
+          "transparent_pixels": 36,
+          "exterior_connected": 36,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 196,
+          "transparent_pixels": 38,
+          "exterior_connected": 38,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 197,
+          "transparent_pixels": 40,
+          "exterior_connected": 40,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 198,
+          "transparent_pixels": 44,
+          "exterior_connected": 44,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 199,
+          "transparent_pixels": 48,
+          "exterior_connected": 48,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        }
+      ],
+      "all_reported_gap_pixels_exterior_connected": true
+    },
+    {
+      "direction": "315",
+      "rows": [
+        {
+          "row": 192,
+          "transparent_pixels": 33,
+          "exterior_connected": 33,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 193,
+          "transparent_pixels": 33,
+          "exterior_connected": 33,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 194,
+          "transparent_pixels": 34,
+          "exterior_connected": 34,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 195,
+          "transparent_pixels": 35,
+          "exterior_connected": 35,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 196,
+          "transparent_pixels": 37,
+          "exterior_connected": 37,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 197,
+          "transparent_pixels": 40,
+          "exterior_connected": 40,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 198,
+          "transparent_pixels": 44,
+          "exterior_connected": 44,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 199,
+          "transparent_pixels": 48,
+          "exterior_connected": 48,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        }
+      ],
+      "all_reported_gap_pixels_exterior_connected": true
+    },
+    {
+      "direction": "337.5",
+      "rows": [
+        {
+          "row": 193,
+          "transparent_pixels": 33,
+          "exterior_connected": 33,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 194,
+          "transparent_pixels": 34,
+          "exterior_connected": 34,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 195,
+          "transparent_pixels": 35,
+          "exterior_connected": 35,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 196,
+          "transparent_pixels": 37,
+          "exterior_connected": 37,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 197,
+          "transparent_pixels": 40,
+          "exterior_connected": 40,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 198,
+          "transparent_pixels": 43,
+          "exterior_connected": 43,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        },
+        {
+          "row": 199,
+          "transparent_pixels": 47,
+          "exterior_connected": 47,
+          "enclosed": 0,
+          "landmark": "between feet below belly"
+        }
+      ],
+      "all_reported_gap_pixels_exterior_connected": true
+    }
+  ],
+  "_packaging": {
+    "source_record_sha256": "277c3ceae902ad6ce9ba7d90640a1d03488145fdad263b6dff2f7ecc8dee0692",
+    "path_basis": "repository root",
+    "note": "Preserved production record. Private identifier fields removed; included file references rewritten. Numeric results, verdicts, warnings and artifact hashes are unchanged."
+  }
+}

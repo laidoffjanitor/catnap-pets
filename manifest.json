@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "format": "ChatGPT Pets v2",
+  "path_basis": "repository root",
+  "columns": 8,
+  "rows": 11,
+  "cell_pixels": [
+    192,
+    208
+  ],
+  "populated_poses": 73,
+  "pets": [
+    {
+      "name": "Plush Catnap",
+      "spritesheet": {
+        "path": "pets/plush-catnap/spritesheet.png",
+        "sha256": "64bf3373cea4eb65457d7471e1b5d87ff1921245ebc0276474022bccdcbc6b07",
+        "bytes": 3920903,
+        "pixels": [
+          1536,
+          2288
+        ],
+        "mode": "RGBA"
+      },
+      "approved_design": {
+        "path": "pets/plush-catnap/design.png",
+        "sha256": "203aaf10a8f265ce7677a0dbe594eef17cd7b4a102b6d7f47f60c9f84f8da0b8",
+        "bytes": 1740306
+      },
+      "previews": "pets/plush-catnap/previews",
+      "validation": "pets/plush-catnap/qa"
+    },
+    {
+      "name": "Chonky Catnap",
+      "spritesheet": {
+        "path": "pets/chonky-catnap/spritesheet.png",
+        "sha256": "840abe5f17bf9dcba9b0112086faad3629a1576e19d91cd14ea1a698e436cbaa",
+        "bytes": 3536444,
+        "pixels": [
+          1536,
+          2288
+        ],
+        "mode": "RGBA"
+      },
+      "approved_design": {
+        "path": "pets/chonky-catnap/design.png",
+        "sha256": "f73dbf22912cfc8a617f5b1a33f36948d3ce2a8f748589800aec204eaa8f8bda",
+        "bytes": 1181092
+      },
+      "previews": "pets/chonky-catnap/previews",
+      "validation": "pets/chonky-catnap/qa"
+    }
+  ]
+}

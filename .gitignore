@@ -1,0 +1,22 @@
+# Local operating-system and editor files
+.DS_Store
+._*
+Thumbs.db
+*~
+*.swp
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local-only secrets, registration records and scratch output
+.env
+.env.*
+!.env.example
+pet-record.json
+pet-record-*.json
+work/
+tmp/
+.cache/
+*.log

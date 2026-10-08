@@ -1,0 +1,123 @@
+{
+  "atlas": "pets/chonky-catnap/spritesheet.png",
+  "directions": {
+    "000": {
+      "expected": "up",
+      "observed": "up",
+      "verdict": "pass",
+      "evidence": "Head and chin lifted, both irises at upper edges of original white eyes; nose above neutral."
+    },
+    "022.5": {
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "Nose yaws right of head center and lifts; irises track upper-right."
+    },
+    "045": {
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "Muzzle yaw right and lifted chin combine with both eyes looking toward upper-right."
+    },
+    "067.5": {
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "warning",
+      "evidence": "Strong rightward nose and pupil positions, with chin slightly raised; vertical up component is subtle but still above level-right pose."
+    },
+    "090": {
+      "expected": "right",
+      "observed": "right",
+      "verdict": "pass",
+      "evidence": "Three-quarter head faces screen-right; nose and both pupils on right side while body and board remain frontal."
+    },
+    "112.5": {
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "warning",
+      "evidence": "Native-size side-by-side review against level-right and stronger down-right: muzzle, nose and chin sit visibly lower than level-right while rightward yaw and both rightward pupils remain. Lower face approaches board; following diagonal continues farther down. Vertical cue is low-amplitude and blind reviewers called it ambiguous, so retain explicit readability warning."
+    },
+    "135": {
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "Head dips diagonally toward right half of keyboard; nose and muzzle right of chest center and below level gaze."
+    },
+    "157.5": {
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "warning",
+      "evidence": "Chin is low near right-hand keys and face points down-right. Right component is more pronounced than a precise near-down angle, but quadrant and ordered downward motion remain clear."
+    },
+    "180": {
+      "expected": "down",
+      "observed": "down",
+      "verdict": "pass",
+      "evidence": "Broadly frontal bowed head, lowered nose, pupils at lower eye edges directly toward keyboard."
+    },
+    "202.5": {
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Head pitched down and nose shifted left of chest center; both eyes aim toward lower-left keys."
+    },
+    "225": {
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Clear leftward yaw in muzzle and eyes plus lowered chin aimed at left half of keyboard."
+    },
+    "247.5": {
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "warning",
+      "evidence": "Native-size side-by-side review against level-left and stronger down-left: nose/muzzle and chin are slightly lower than level-left, while face remains yawed left; stronger down-left neighbor continues downward pitch. Vertical cue is subtle and blind reviewers called it ambiguous, so retain explicit readability warning."
+    },
+    "270": {
+      "expected": "left",
+      "observed": "left",
+      "verdict": "pass",
+      "evidence": "Head yaws screen-left, nose at left of head center and eyes tracking left; body stays frontal."
+    },
+    "292.5": {
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Leftward head yaw with chin/nose raised and irises rotated toward upper-left."
+    },
+    "315": {
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Muzzle lifted and left of center, both eyes aimed diagonally up-left."
+    },
+    "337.5": {
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "warning",
+      "evidence": "Head nearly frontal and raised toward up, pupils slightly left/up. Horizontal component is subtle near vertical; continuation into up is coherent."
+    }
+  },
+  "continuity_visual_review": {
+    "pass": true,
+    "alpha_hole_warning_resolution": "Reported rows lie between feet near ground and between ear tufts at top silhouette; inspected light-background labeled sheet has no transparent interior belly/face holes or seam bands.",
+    "center_shift_warning_resolution": "135 to 157.5 bounds center moves as head bends farther down-right; keyboard, feet and seated lower body stay anchored. No whole-sprite shift.",
+    "loop_boundaries": "157.5 to 180 brings bowed face toward center without changing body/board size; 337.5 to000 continues raised head toward vertical.",
+    "limitations": "Three independent blind reviewers passed all hard cardinal gates and every horizontal axis. Near-horizontal 112.5 and247.5 have subtle downward pitch accepted only after native-size adjacent-pose review; no wrong direction or neutral replacement identified."
+  },
+  "independent_blind_review": {
+    "validation": "direction-blind-validation.json",
+    "ok": true,
+    "hard_cardinals": "pass",
+    "warnings": [
+      "112.5 vertical subtle/ambiguous in isolation",
+      "247.5 vertical subtle/ambiguous in isolation"
+    ],
+    "resolution": "Both reviewed beside neighbors at native size; true but small downward head/muzzle displacement; accepted as intermediate readability warnings, atlas bytes unchanged."
+  },
+  "_packaging": {
+    "source_record_sha256": "c953d6a5ec73ca431ed6447a4860b0804e440c84eea7b5d13d44f63f02c2ff1b",
+    "path_basis": "repository root",
+    "note": "Preserved production record. Private identifier fields removed; included file references rewritten. Numeric results, verdicts, warnings and artifact hashes are unchanged."
+  }
+}

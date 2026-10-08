@@ -1,0 +1,191 @@
+{
+  "waiting.gif": {
+    "frames": 6,
+    "size": [
+      192,
+      208
+    ],
+    "bytes": 133178
+  },
+  "jumping.gif": {
+    "frames": 5,
+    "size": [
+      192,
+      208
+    ],
+    "bytes": 103371
+  },
+  "running.gif": {
+    "frames": 6,
+    "size": [
+      192,
+      208
+    ],
+    "bytes": 136360
+  },
+  "look-loop.gif": {
+    "frames": 16,
+    "size": [
+      192,
+      208
+    ],
+    "bytes": 341375
+  },
+  "running-left.gif": {
+    "frames": 8,
+    "size": [
+      192,
+      208
+    ],
+    "bytes": 140189
+  },
+  "waving.gif": {
+    "frames": 4,
+    "size": [
+      192,
+      208
+    ],
+    "bytes": 93979
+  },
+  "failed.gif": {
+    "frames": 8,
+    "size": [
+      192,
+      208
+    ],
+    "bytes": 161668
+  },
+  "review.gif": {
+    "frames": 6,
+    "size": [
+      192,
+      208
+    ],
+    "bytes": 126509
+  },
+  "idle.gif": {
+    "frames": 6,
+    "size": [
+      192,
+      208
+    ],
+    "bytes": 135422
+  },
+  "idle-jump-idle.gif": {
+    "frames": 17,
+    "size": [
+      192,
+      208
+    ],
+    "bytes": 374149
+  },
+  "all-states.gif": {
+    "frames": 114,
+    "size": [
+      192,
+      232
+    ],
+    "bytes": 2365469
+  },
+  "running-right.gif": {
+    "frames": 8,
+    "size": [
+      192,
+      208
+    ],
+    "bytes": 137426
+  },
+  "look-loop.webp": {
+    "frames": 16,
+    "size": [
+      192,
+      208
+    ],
+    "bytes": 605316
+  },
+  "waving.webp": {
+    "frames": 4,
+    "size": [
+      192,
+      208
+    ],
+    "bytes": 160574
+  },
+  "running-right.webp": {
+    "frames": 8,
+    "size": [
+      192,
+      208
+    ],
+    "bytes": 242644
+  },
+  "review.webp": {
+    "frames": 6,
+    "size": [
+      192,
+      208
+    ],
+    "bytes": 222928
+  },
+  "running-left.webp": {
+    "frames": 8,
+    "size": [
+      192,
+      208
+    ],
+    "bytes": 243732
+  },
+  "failed.webp": {
+    "frames": 8,
+    "size": [
+      192,
+      208
+    ],
+    "bytes": 275922
+  },
+  "waiting.webp": {
+    "frames": 6,
+    "size": [
+      192,
+      208
+    ],
+    "bytes": 231824
+  },
+  "idle-jump-idle.webp": {
+    "frames": 17,
+    "size": [
+      192,
+      208
+    ],
+    "bytes": 643366
+  },
+  "idle.webp": {
+    "frames": 6,
+    "size": [
+      192,
+      208
+    ],
+    "bytes": 232064
+  },
+  "running.webp": {
+    "frames": 6,
+    "size": [
+      192,
+      208
+    ],
+    "bytes": 238406
+  },
+  "jumping.webp": {
+    "frames": 5,
+    "size": [
+      192,
+      208
+    ],
+    "bytes": 179392
+  },
+  "_packaging": {
+    "source_record_sha256": "c05067c34440344b5e242c569efefe9d0eeef599803c7dc5dfa241beacba7885",
+    "path_basis": "repository root",
+    "note": "Preserved production record. Private identifier fields removed; included file references rewritten. Numeric results, verdicts, warnings and artifact hashes are unchanged."
+  }
+}

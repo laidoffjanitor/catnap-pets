@@ -1,0 +1,295 @@
+{
+  "schema_version": 1,
+  "checked_at_utc": "2026-10-08T10:26:46.419015+00:00",
+  "scope": "New local package only; preserved production QA and separately supplied Firefox smoke-test evidence are not rerun.",
+  "final_assets": [
+    {
+      "path": "pets/plush-catnap/spritesheet.png",
+      "sha256": "64bf3373cea4eb65457d7471e1b5d87ff1921245ebc0276474022bccdcbc6b07",
+      "approved_hash_matches": true,
+      "pixels": [
+        1536,
+        2288
+      ],
+      "mode": "RGBA",
+      "populated_cells_by_row": [
+        6,
+        8,
+        8,
+        4,
+        5,
+        8,
+        6,
+        6,
+        6,
+        8,
+        8
+      ],
+      "populated_poses": 73,
+      "unused_cells_fully_transparent": true,
+      "soft_alpha_pixels": 316227
+    },
+    {
+      "path": "pets/chonky-catnap/spritesheet.png",
+      "sha256": "840abe5f17bf9dcba9b0112086faad3629a1576e19d91cd14ea1a698e436cbaa",
+      "approved_hash_matches": true,
+      "pixels": [
+        1536,
+        2288
+      ],
+      "mode": "RGBA",
+      "populated_cells_by_row": [
+        6,
+        8,
+        8,
+        4,
+        5,
+        8,
+        6,
+        6,
+        6,
+        8,
+        8
+      ],
+      "populated_poses": 73,
+      "unused_cells_fully_transparent": true,
+      "soft_alpha_pixels": 169647
+    }
+  ],
+  "source_copy_integrity": {
+    "source_records_and_assets_unchanged": 202,
+    "byte_identical_media_copies": 122
+  },
+  "media_decode": {
+    "image_files": 120,
+    "image_frames_decoded": 605,
+    "videos": [
+      {
+        "path": "pets/chonky-catnap/previews/all-states.mp4",
+        "decoded": true,
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 576,
+            "height": 624,
+            "nb_frames": "57"
+          }
+        ]
+      },
+      {
+        "path": "pets/plush-catnap/previews/all-states.mp4",
+        "decoded": true,
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 192,
+            "height": 232,
+            "nb_frames": "114"
+          }
+        ]
+      }
+    ]
+  },
+  "preview_frame_checks": [
+    {
+      "path": "pets/plush-catnap/previews/idle.gif",
+      "frames": 6
+    },
+    {
+      "path": "pets/plush-catnap/previews/idle.webp",
+      "frames": 6
+    },
+    {
+      "path": "pets/plush-catnap/previews/running-right.gif",
+      "frames": 8
+    },
+    {
+      "path": "pets/plush-catnap/previews/running-right.webp",
+      "frames": 8
+    },
+    {
+      "path": "pets/plush-catnap/previews/running-left.gif",
+      "frames": 8
+    },
+    {
+      "path": "pets/plush-catnap/previews/running-left.webp",
+      "frames": 8
+    },
+    {
+      "path": "pets/plush-catnap/previews/waving.gif",
+      "frames": 4
+    },
+    {
+      "path": "pets/plush-catnap/previews/waving.webp",
+      "frames": 4
+    },
+    {
+      "path": "pets/plush-catnap/previews/jumping.gif",
+      "frames": 5
+    },
+    {
+      "path": "pets/plush-catnap/previews/jumping.webp",
+      "frames": 5
+    },
+    {
+      "path": "pets/plush-catnap/previews/failed.gif",
+      "frames": 8
+    },
+    {
+      "path": "pets/plush-catnap/previews/failed.webp",
+      "frames": 8
+    },
+    {
+      "path": "pets/plush-catnap/previews/waiting.gif",
+      "frames": 6
+    },
+    {
+      "path": "pets/plush-catnap/previews/waiting.webp",
+      "frames": 6
+    },
+    {
+      "path": "pets/plush-catnap/previews/running.gif",
+      "frames": 6
+    },
+    {
+      "path": "pets/plush-catnap/previews/running.webp",
+      "frames": 6
+    },
+    {
+      "path": "pets/plush-catnap/previews/review.gif",
+      "frames": 6
+    },
+    {
+      "path": "pets/plush-catnap/previews/review.webp",
+      "frames": 6
+    },
+    {
+      "path": "pets/plush-catnap/previews/look-loop.gif",
+      "frames": 16
+    },
+    {
+      "path": "pets/plush-catnap/previews/look-loop.webp",
+      "frames": 16
+    },
+    {
+      "path": "pets/plush-catnap/previews/idle-jump-idle.gif",
+      "frames": 17
+    },
+    {
+      "path": "pets/plush-catnap/previews/idle-jump-idle.webp",
+      "frames": 17
+    },
+    {
+      "path": "pets/chonky-catnap/previews/idle.gif",
+      "frames": 6
+    },
+    {
+      "path": "pets/chonky-catnap/previews/idle.webp",
+      "frames": 6
+    },
+    {
+      "path": "pets/chonky-catnap/previews/running-right.gif",
+      "frames": 8
+    },
+    {
+      "path": "pets/chonky-catnap/previews/running-right.webp",
+      "frames": 8
+    },
+    {
+      "path": "pets/chonky-catnap/previews/running-left.gif",
+      "frames": 8
+    },
+    {
+      "path": "pets/chonky-catnap/previews/running-left.webp",
+      "frames": 8
+    },
+    {
+      "path": "pets/chonky-catnap/previews/waving.gif",
+      "frames": 4
+    },
+    {
+      "path": "pets/chonky-catnap/previews/waving.webp",
+      "frames": 4
+    },
+    {
+      "path": "pets/chonky-catnap/previews/jumping.gif",
+      "frames": 5
+    },
+    {
+      "path": "pets/chonky-catnap/previews/jumping.webp",
+      "frames": 5
+    },
+    {
+      "path": "pets/chonky-catnap/previews/failed.gif",
+      "frames": 8
+    },
+    {
+      "path": "pets/chonky-catnap/previews/failed.webp",
+      "frames": 8
+    },
+    {
+      "path": "pets/chonky-catnap/previews/waiting.gif",
+      "frames": 6
+    },
+    {
+      "path": "pets/chonky-catnap/previews/waiting.webp",
+      "frames": 6
+    },
+    {
+      "path": "pets/chonky-catnap/previews/running.gif",
+      "frames": 6
+    },
+    {
+      "path": "pets/chonky-catnap/previews/running.webp",
+      "frames": 6
+    },
+    {
+      "path": "pets/chonky-catnap/previews/review.gif",
+      "frames": 6
+    },
+    {
+      "path": "pets/chonky-catnap/previews/review.webp",
+      "frames": 6
+    },
+    {
+      "path": "pets/chonky-catnap/previews/look-loop.gif",
+      "frames": 16
+    },
+    {
+      "path": "pets/chonky-catnap/previews/look-loop.webp",
+      "frames": 16
+    },
+    {
+      "path": "pets/chonky-catnap/previews/idle-jump-idle.gif",
+      "frames": 17
+    },
+    {
+      "path": "pets/chonky-catnap/previews/idle-jump-idle.webp",
+      "frames": 17
+    }
+  ],
+  "relative_links": {
+    "checked": 45,
+    "missing": 0
+  },
+  "portable_json_references": {
+    "checked": 253,
+    "missing": 0
+  },
+  "private_metadata_scan": {
+    "scope": "repository content excluding Git internals and this generated report",
+    "files_scanned": 211,
+    "patterns": [
+      "personal_absolute_path",
+      "private_reference",
+      "sensitive_identifier_field",
+      "credential_signature",
+      "signed_url_parameter",
+      "private_page_or_account_url"
+    ],
+    "matches": [],
+    "note": "Pattern and structured-metadata checks; no claim of universal secret detection."
+  },
+  "errors": [],
+  "ok": true
+}

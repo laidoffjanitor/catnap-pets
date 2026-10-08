@@ -1,0 +1,86 @@
+{
+  "ok": true,
+  "atlas": "pets/plush-catnap/spritesheet.png",
+  "encoded_bytes": 3920903,
+  "sha256": "64bf3373cea4eb65457d7471e1b5d87ff1921245ebc0276474022bccdcbc6b07",
+  "jump": {
+    "idle_baseline": 201,
+    "jump_baselines": [
+      201,
+      202,
+      185,
+      196,
+      202
+    ],
+    "airborne_lift_pixels": 17,
+    "landing_delta_pixels": 1
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      95.5,
+      96.5,
+      97.0,
+      96.5,
+      97.0,
+      96.5,
+      97.0,
+      97.5,
+      97.0,
+      96.5,
+      97.0,
+      96.0,
+      97.0,
+      96.5,
+      96.5,
+      96.5
+    ],
+    "look_widths": [
+      159,
+      161,
+      160,
+      159,
+      160,
+      159,
+      158,
+      159,
+      158,
+      159,
+      158,
+      158,
+      158,
+      159,
+      159,
+      159
+    ],
+    "maximum_center_drift_pixels": 1.5,
+    "maximum_width_ratio": 1.018987341772152
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 067.5 accepted with a reviewed warning",
+    "look direction 112.5 accepted with a reviewed warning",
+    "000 has transparent interior hole rows (y=19, y=20, y=21, y=193, +6 more)",
+    "022.5 has transparent interior hole rows (y=22, y=192, y=193, y=194, +5 more)",
+    "045 has transparent interior hole rows (y=193, y=194, y=195, y=196, +3 more)",
+    "067.5 has transparent interior hole rows (y=193, y=194, y=195, y=196, +3 more)",
+    "090 has transparent interior hole rows (y=193, y=194, y=195, y=196, +3 more)",
+    "112.5 has transparent interior hole rows (y=194, y=195, y=196, y=197, +2 more)",
+    "135 has transparent interior hole rows (y=194, y=195, y=196, y=197, +2 more)",
+    "157.5 has transparent interior hole rows (y=193, y=194, y=195, y=196, +3 more)",
+    "180 has transparent interior hole rows (y=193, y=194, y=195, y=196, +2 more)",
+    "202.5 has transparent interior hole rows (y=192, y=193, y=194, y=195, +3 more)",
+    "225 has transparent interior hole rows (y=193, y=194, y=195, y=196, +2 more)",
+    "247.5 has transparent interior hole rows (y=193, y=194, y=195, y=196, +2 more)",
+    "270 has transparent interior hole rows (y=193, y=194, y=195, y=196, +3 more)",
+    "292.5 has transparent interior hole rows (y=193, y=194, y=195, y=196, +3 more)",
+    "315 has transparent interior hole rows (y=192, y=193, y=194, y=195, +4 more)",
+    "337.5 has transparent interior hole rows (y=193, y=194, y=195, y=196, +3 more)",
+    "337.5->000 diff is a local outlier (3096 pixels vs neighbor average 1024)"
+  ],
+  "_packaging": {
+    "source_record_sha256": "7d68def67cff8557ae09dd5c638cf328ef2cfe96adf496a42e3b9de46ca6386d",
+    "path_basis": "repository root",
+    "note": "Preserved production record. Private identifier fields removed; included file references rewritten. Numeric results, verdicts, warnings and artifact hashes are unchanged."
+  }
+}

@@ -1,0 +1,5 @@
+# Plush Catnap gaze mechanics
+
+The seated feet, belly, tail, and keyboard remain anchored with the corrected keyboard orientation: numpad screen-left and spacebar nearest belly. The cat's physical plush head turns at its soft neck and pitches gently up/down; eye surfaces retain original white sclera, brown pupil/iris, thick sleepy eyelids, and highlights. Eyelids open enough for an unmistakable gaze. Pupils follow the head, never become replacement eyes. Ears and cheek tufts follow head rotation naturally; folded ear identity stays on the cat's left. Upper torso may subtly follow but the keyboard stays stable.
+
+Up: chin lifts and nose tip rises, both pupils toward upper sclera, cream chin visible. Right: head yaw right and nose/pupils clearly right of head center, face remains visible. Down: nose lowers toward keyboard and pupils low, eyelids stay open enough to distinguish looking from sleeping. Left: inverse of right. Diagonal poses interpolate head yaw and pitch evenly while keeping feet and keyboard anchored. The whole body never rotates as a turntable.

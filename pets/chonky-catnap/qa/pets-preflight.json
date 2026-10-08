@@ -1,0 +1,29 @@
+{
+  "valid": true,
+  "file_size_bytes": 3536444,
+  "mime_type": "image/png",
+  "width": 1536,
+  "height": 2288,
+  "sprite_version": 2,
+  "cell_width": 192,
+  "cell_height": 208,
+  "frames_per_row": [
+    6,
+    8,
+    8,
+    4,
+    5,
+    8,
+    6,
+    6,
+    6,
+    8,
+    8
+  ],
+  "errors": [],
+  "_packaging": {
+    "source_record_sha256": "6998a491b95408e78701a361db2348f24b4577daa40c6c04d389286ab4949a21",
+    "path_basis": "repository root",
+    "note": "Preserved production record. Private identifier fields removed; included file references rewritten. Numeric results, verdicts, warnings and artifact hashes are unchanged."
+  }
+}
