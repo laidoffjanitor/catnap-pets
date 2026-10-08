@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.1 — 2026-10-08
+
+- Add the standard CC0 1.0 Universal license and clarify its scope in the README.
+- Include the license with release downloads and update instructions and checksums.
+- Preserve both approved sprite sheets byte-for-byte; artwork, source provenance, and validation records are unchanged.
+
 ## 1.0.0 — 2026-10-08
 
 Initial collection of **Plush Catnap** and **Chonky Catnap** for ChatGPT Pets.

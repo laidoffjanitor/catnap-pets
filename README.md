@@ -28,9 +28,13 @@ Use the full sprite sheet. `design.png`, contact sheets, GIFs and videos are vie
 
 ## Versioned downloads
 
-**[v1.0.0](https://github.com/laidoffjanitor/catnap-pets/releases/tag/v1.0.0)** contains the current Plush Catnap and Chonky Catnap collection. The release offers a separate PNG for each cat, a ZIP with both cats and upload instructions, and SHA-256 checksums.
+**[v1.0.1](https://github.com/laidoffjanitor/catnap-pets/releases/tag/v1.0.1)** contains the current Plush Catnap and Chonky Catnap collection with its CC0 license. The release offers a separate PNG for each cat, upload instructions, the license, and SHA-256 checksums. The ZIP includes both cats, instructions, the license, and checksums. Both PNGs are unchanged from v1.0.0.
 
-Future added keyboard or cat variants can use minor versions such as `1.1.0`; fixes can use patch versions such as `1.0.1`. See the [changelog](CHANGELOG.md) for each release's changes.
+Future added keyboard or cat variants can use minor versions such as `1.1.0`; fixes can use patch versions such as `1.0.2`. See the [changelog](CHANGELOG.md) for each release's changes.
+
+## License
+
+The pet artwork and repository content are offered under [CC0 1.0 Universal](LICENSE), to the extent of rights held by the contributors. You may use, modify, and share that material, including commercially, without requiring credit. This does not claim copyright in AI-generated portions or grant rights to third-party names, trademarks, or reference products.
 
 ## What's included
 
