@@ -24,7 +24,13 @@ Each cat includes nine animated states, sixteen head-and-eye gaze poses, and pre
 
 Use the full sprite sheet. `design.png`, contact sheets, GIFs and videos are viewing or editing references.
 
-These original files passed the Pets v2 preflight at **1536 × 2288**. The [official Pets documentation](https://learn.chatgpt.com/docs/pets) currently describes a **1536 × 1872** web upload sheet. If your upload interface requires that nine-row size, it does not match these eleven-row v2 masters; preserve the originals rather than resizing them. Availability and upload controls can vary by interface.
+**Compatibility:** these are eleven-row **Pets v2** sheets at **1536 × 2288**. Use an upload interface that supports v2. If your uploader only accepts the nine-row **1536 × 1872** size described in the [official Pets documentation](https://learn.chatgpt.com/docs/pets), keep these originals unchanged rather than resizing them.
+
+## Versioned downloads
+
+**[v1.0.0](https://github.com/laidoffjanitor/catnap-pets/releases/tag/v1.0.0)** contains the current Plush Catnap and Chonky Catnap collection. The release offers a separate PNG for each cat, a ZIP with both cats and upload instructions, and SHA-256 checksums.
+
+Future added keyboard or cat variants can use minor versions such as `1.1.0`; fixes can use patch versions such as `1.0.1`. See the [changelog](CHANGELOG.md) for each release's changes.
 
 ## What's included
 
@@ -43,9 +49,11 @@ qa/                       packaging checks and browser smoke-test notes
 SOURCES.md                 source selection and editing constraints
 ```
 
-Both cat folders have the same structure. [Source notes](SOURCES.md) explain the selected materials and keyboard orientation. [QA notes](qa/README.md) distinguish saved production checks, browser evidence and packaging verification.
+Both cat folders have the same structure. [Source notes](SOURCES.md) explain the selected materials and keyboard orientation.
 
-## Sprite format
+<details>
+<summary>Sprite format and state layout</summary>
+
 
 Both upload assets are transparent RGBA PNGs with **8 columns × 11 rows**, **192 × 208 pixels per cell**, and **73 populated poses**. Unused cells remain transparent. Row numbers below start at zero; frames run left to right.
 
@@ -67,14 +75,17 @@ The gaze sequence runs clockwise from **up (0°)** through **screen-right (90°)
 
 PNG and the transparent WebP previews preserve soft alpha edges. GIF and MP4 previews are composited against a neutral background for clean viewing; they are not upload masters. Source strips can still have chroma-key backgrounds because they precede extraction and cleanup.
 
-## Validation and limits
+</details>
 
-The saved reports record passing structure, frame, quality, independent direction and Pets preflight checks for both cats. Both final PNG hashes match the approved assets in [manifest.json](manifest.json). Three independent direction reviewers passed the main cardinal gates. Some intermediate gazes are subtle, especially the downward component near horizontal; the original warnings and their visual review remain in each cat's QA folder.
+[Validation notes](qa/README.md) · [Artifact manifest](manifest.json) · [File checksums](SHA256SUMS)
 
-The Firefox smoke test confirmed both named pets render with multiple animated idle poses in the collection, and that selecting Chonky then returning to Plush works. **Full live task-driven states and gaze tracking remain unverified.** See the [runtime note](qa/runtime-smoke-test.md) for the exact scope and limitation.
+<details>
+<summary>Verify downloaded repository files</summary>
 
-The [packaging report](qa/packaging-verification.json) records local integrity and decode checks. To recheck the file checksums from the repository root on macOS or Linux:
+From the downloaded repository folder on macOS or Linux:
 
 ```sh
 shasum -a 256 -c SHA256SUMS
 ```
+
+</details>
