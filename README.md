@@ -1,19 +1,26 @@
-# Catnap Pets
+# Catnap — custom cats for ChatGPT Pets
 
-Two sleepy orange cats with tiny keyboards: **Plush Catnap** and **Chonky Catnap**. Each has nine animated states and sixteen head-and-eye gaze poses for the ChatGPT Pets v2 format.
+Meet **Plush Catnap** and **Chonky Catnap**: two sleepy orange cats with tiny keyboards, made as custom companions for **ChatGPT Pets**. Choose the soft plush cat or the round cartoon cat, download its transparent sprite sheet, and add it through ChatGPT's Pets settings where the v2 format is supported.
+
+Each cat includes nine animated states, sixteen head-and-eye gaze poses, and previews you can watch before downloading. The two upload files are linked below; no coding or build step is needed.
 
 | Plush Catnap | Chonky Catnap |
 | --- | --- |
 | ![Plush Catnap breathing and blinking](pets/plush-catnap/previews/idle.gif) | ![Chonky Catnap breathing and blinking](pets/chonky-catnap/previews/idle.gif) |
 | Soft plush texture, oversized sleepy head. | Round cartoon body, tiny tired head. |
-| [Browse files](pets/plush-catnap/README.md) · [Upload PNG](pets/plush-catnap/spritesheet.png) · [All states](pets/plush-catnap/previews/all-states.gif) | [Browse files](pets/chonky-catnap/README.md) · [Upload PNG](pets/chonky-catnap/spritesheet.png) · [All states](pets/chonky-catnap/previews/all-states.gif) |
+| [Plush upload PNG](pets/plush-catnap/spritesheet.png) · [Watch all states](pets/plush-catnap/previews/all-states.gif) · [Browse Plush files](pets/plush-catnap/README.md) | [Chonky upload PNG](pets/chonky-catnap/spritesheet.png) · [Watch all states](pets/chonky-catnap/previews/all-states.gif) · [Browse Chonky files](pets/chonky-catnap/README.md) |
 
-## Upload a cat
+## Download and add a cat
 
-1. Download this repository, or save the original `spritesheet.png` from the cat's folder. On GitHub, use the file's raw download control to save the PNG itself.
+1. **Get one cat:** open its upload PNG link above and use GitHub's raw download control. **Get both:** on the repository's main page, choose **Code → Download ZIP**, then unzip the download.
 2. Open [ChatGPT Pets settings](https://chatgpt.com/settings/pets) while signed in.
-3. Choose **Upload pet**, select the PNG, and use the corresponding name: **Plush Catnap** or **Chonky Catnap**.
+3. Choose **Upload pet**, select the matching file below, and name it **Plush Catnap** or **Chonky Catnap**.
 4. Save the pet and select it from your collection.
+
+| Cat | File to upload from the downloaded folder |
+| --- | --- |
+| Plush Catnap | `pets/plush-catnap/spritesheet.png` |
+| Chonky Catnap | `pets/chonky-catnap/spritesheet.png` |
 
 Use the full sprite sheet. `design.png`, contact sheets, GIFs and videos are viewing or editing references.
 
